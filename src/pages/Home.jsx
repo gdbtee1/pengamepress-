@@ -439,7 +439,7 @@ export default function Home() {
 
           <Link
             to="/contact"
-            className="shrink-0 rounded-full bg-white px-8 py-4 text-sm font-black uppercase tracking-widest text-[#111] transition hover:bg-[#111] hover:text-white"
+          className="shrink-0 rounded-full bg-[#111] px-8 py-4 text-sm font-black uppercase tracking-widest text-white transition hover:bg-white hover:text-[#111]"
           >
             Contact Now
           </Link>
